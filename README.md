@@ -15,7 +15,7 @@ In addition to these core services, Selego supports startups in securing funding
 Selego is not just a service provider; we are a partner in innovation, helping startups and public sector clients solve real-world problems and achieve significant, lasting impact. For more information or to collaborate with us, please reach out via our website or contact us directly.
 
 
-[Website]("https://www.selego.co/")
+[Website](https://www.selego.co)
 
 
 
